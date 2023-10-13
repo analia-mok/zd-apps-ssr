@@ -39,6 +39,8 @@
     "@vitest/coverage-c8": "~0.32.0",
     "@vitest/ui": "~0.32.0",
     "@zendeskgarden/react-buttons": "^8.73.0",
+    "@zendeskgarden/react-dropdowns.next": "^8.73.0",
+    "@zendeskgarden/react-loaders": "^8.73.0",
     "@zendeskgarden/react-theming": "^8.73.0",
     "@zendeskgarden/react-typography": "^8.73.0",
     "babel-plugin-styled-components": "1.10.7",
@@ -61,13 +63,14 @@
     "vitest": "~0.32.0"
   },
   "dependencies": {
-    "@remix-run/node": "^1.16.1",
-    "@remix-run/react": "^1.16.1",
-    "@remix-run/serve": "^1.16.1",
+    "@remix-run/node": "^1.19.3",
+    "@remix-run/react": "^1.19.3",
+    "@remix-run/serve": "^1.19.3",
     "isbot": "^3.6.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "18.2.0",
+    "remix-utils": "^6.6.0",
     "tslib": "^2.3.0"
   }
 }
